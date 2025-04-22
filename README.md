@@ -6,7 +6,7 @@
 git clone https://github.com/Samsulmaarif01/RHI-CRM.git
 ```
 ```bash
-cd https://github.com/Samsulmaarif01/RHI-CRM.git
+cd RHI-CRM
 ```
 
 ### 2. Install Dependensi Laravel
