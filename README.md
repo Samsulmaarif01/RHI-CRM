@@ -3,10 +3,10 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Samsulmaarif01/RHI-Build-Project-Management.git
+git clone https://github.com/Samsulmaarif01/RHI-CRM.git
 ```
 ```bash
-cd RHI-Build-Project-Management
+cd https://github.com/Samsulmaarif01/RHI-CRM.git
 ```
 
 ### 2. Install Dependensi Laravel
