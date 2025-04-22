@@ -30,7 +30,7 @@ Edit file `.env` seperti berikut:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=project-management
+DB_DATABASE=DB_RhiBuild
 DB_USERNAME=root
 DB_PASSWORD=
 ```
